@@ -1,0 +1,32 @@
+Book: aBCGDR by Aif
+Issued to: Shfaiq
+Email: ertyui
+Phone: 456789
+Department: CS
+Issue Date: Mar 20 2026 06:36:19
+==============================================
+
+Book: Muhammad Shafiq by Muhammad Atif
+Issued to: Atif
+Email: dfghjk
+Phone: 3456789
+Department: nmb
+Issue Date: Mar 20 2026 06:39:16
+==============================================
+
+Book: aBCGDR by Aif
+Issued to: Atif Shafiq
+Email: atifshafiq
+Phone: 9876543
+Department: CS
+Issue Date: Mar 20 2026 15:09:17
+==============================================
+
+Book: aBCGDR by Aif
+Issued to: Muhammad Atif Shafiq
+Email: atifshafiq347@gmail.com
+Phone: 3298709632
+Department: CS
+Issue Date: Mar 23 2026 19:13:10
+==============================================
+
